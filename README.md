@@ -1,9 +1,9 @@
 # Deep-Learning-Models
  collection of my deep learning  models
 ## Resources :
-* [tutorialspoint] (https://www.tutorialspoint.com/) to learn Numpy Pandas ...
+* [tutorialspoint](https://www.tutorialspoint.com/) to learn Numpy Pandas ...
 * [Intro to Deep Learning with PyTorch](https://classroom.udacity.com/courses/ud188) Udacity course to learn about deep learning
-* [Kaggle] (https://www.kaggle.com) to find datasets and challengs
+* [Kaggle](https://www.kaggle.com) to find datasets and challengs
 * [Colab](https://colab.research.google.com) to train models in gpu for free :)
 ## Content :
 
