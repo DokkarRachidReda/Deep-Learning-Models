@@ -9,7 +9,8 @@
 
 * Model to recognize digits (0..9) from 28x28x1 images (MNIST dataset), the challenge from Kaggle [digit-recognizer](https://www.kaggle.com/c/digit-recognizer)
   you can find this model in ``` ./Digits.ipynb ```
-* Titanic3 Dataset analyse and survive prediction using MLP pytorch, got 84% accuracy
+* Titanic3 Dataset analyse and survive prediction using MLP pytorch, I got 84% accuracy :)  .
+  
   you can find the dataset description [here](http://campus.lakeforest.edu/frank/FILES/MLFfiles/Bio150/Titanic/TitanicMETA.pdf)
   and the dataset [here](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls)
   the model is in ``` ./Titanic3.ipynb ```
