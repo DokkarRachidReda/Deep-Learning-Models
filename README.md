@@ -23,6 +23,11 @@
   the CNN model on the other hand performed much better,the test accuracy is 84.9 in 36 epoch (the MLP was trained on 150 epoch)
   
   you can find the MLP model in ``` ./arabic.ipynb ```,the CNN model in ``` ./arabic_CNN.ipynb ``` and the data in ``` ./Datasets/arabic``` , the data is structred to be loaded directly   to pytorch ImageFolder Dataset
+  
+* **AI hack tunisia precalificacion** is a ML challenge to predict if an african have a bank account, it's also a precalificacion for AI hack tunisia,
+ I got an accuracy of 99.89 %. 
+ 
+   you can find the challenge online [here](http://zindi.africa/competitions/financial-inclusion-in-africa) 
 
 ## Contribution :
 feel free to contribute or to report any error or improvment to any model, i would be happy to add your model here too :)
