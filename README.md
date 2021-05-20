@@ -20,7 +20,7 @@
 * **Arabic Letters classifier** using pytorch (MLP), the data is 32x32x3 images
   I got 73% accuracy ;_;
   
-  the CNN model on the other hand performed much better,the test accuracy is 84.9 in 36 epoch (the MLP was trained on 150 epoch)
+  the CNN model on the other hand performed much better,the test accuracy is 84.9 (the MLP was trained on 150 epoch)
   
   you can find the MLP model in ``` ./arabic.ipynb ```,the CNN model in ``` ./arabic_CNN.ipynb ``` and the data in ``` ./Datasets/arabic``` , the data is structred to be loaded directly   to pytorch ImageFolder Dataset
   
